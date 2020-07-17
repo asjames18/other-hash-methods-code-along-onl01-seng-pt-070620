@@ -11,5 +11,7 @@ require 'pry'
 def get_the_keys(groceries)
   groceries.keys
 
+  groceries[vegetable][1]
+
   #code your solution here!
 end
